@@ -1,6 +1,7 @@
 # IHG Hotels and Resorts
-## Application for Advanced Analytics Associate Manager
+**Application for Advanced Analytics Associate Manager**
 
+## Analytics Assessment Using Google Big Query
 ### Assumptions
 *Air Quality Index (AQI) Brackets*: </br>
 Assume we categorize ozone air quality into common AQI brackets, like "Good," "Moderate," "Unhealthy for Sensitive Groups," "Unhealthy," "Very Unhealthy," and "Hazardous."
